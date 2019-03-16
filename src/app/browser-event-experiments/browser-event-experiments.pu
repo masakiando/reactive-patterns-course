@@ -1,0 +1,5 @@
+@startuml
+Subject  o--  Observer
+Observer <|-- ConcreteObserverA
+Observer <|-- ConcreteObserverB
+@enduml
